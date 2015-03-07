@@ -2,6 +2,6 @@
 
 Written by Jacques Labuschagne.
 
-Image by Daniele Oberti.
+Background image by Daniele Oberti.
 
 Reveal.js by Hakim El Hattab, using modified Catalyst IT theme.
